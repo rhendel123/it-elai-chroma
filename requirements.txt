@@ -1,3 +1,9 @@
 fastapi
 uvicorn
 chromadb
+
+opentelemetry-api
+opentelemetry-sdk
+opentelemetry-instrumentation
+opentelemetry-instrumentation-fastapi
+opentelemetry-exporter-otlp
